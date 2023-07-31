@@ -1,5 +1,4 @@
-
-![App Screenshot]<img width="1085" alt="Screenshot 2023-07-31 at 3 08 46 PM" src="https://github.com/ahmed-eldin/js-mouse-design/assets/111728755/63c9ca3a-cb38-441f-b4da-1ba8da8533dc">
+<img width="1085" alt="Screenshot 2023-07-31 at 3 08 46 PM" src="https://github.com/ahmed-eldin/js-mouse-design/assets/111728755/63c9ca3a-cb38-441f-b4da-1ba8da8533dc">
 
 
 
