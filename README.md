@@ -4,7 +4,7 @@
 
 # JavaScript Rainbow Mouse Design
 
-This project showcases a fun and interactive rainbow mouse design created with JavaScript. The mouse cursor is transformed into a colorful rainbow trail as it moves across the screen. It adds a delightful and playful element to the user experience, making it enjoyable to navigate through the webpage.
+This project showcases a fun and interactive rainbow mouse design created with JavaScript. The mouse cursor is transformed into a colorful rainbow trail as it moves across the screen. It adds a colorful and creative element to the user experience, making it enjoyable to navigate through the webpage.
 
 
 ## How to Use
