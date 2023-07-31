@@ -28,7 +28,7 @@ The project was inspired by various creative mouse cursor effects found on the w
 The project was inspired by various creative mouse cursor effects found on the web, and it was implemented using JavaScript to create the rainbow trail effect.
 ## 
 
-Add a touch of magic and color to your web page with the Rainbow Mouse Design. Feel free to explore the code and make it your own. If you have any suggestions or improvements, I'd love to hear from you. Enjoy the playful rainbow trail effect and happy coding! 🌈🖱️
+Add a touch of magic and color to your web page with the Rainbow Mouse Design. Feel free to explore the code and make it your own. If you have any suggestions or improvements, I'd love to hear from you. Enjoy the playful rainbow trail effect! 🌈🖱️
 ## Authors
 
 - [@ahmed-eldin](https://www.github.com/ahmed-eldin)
